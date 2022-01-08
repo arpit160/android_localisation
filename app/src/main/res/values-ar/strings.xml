@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project1_Localisation</string>
+    <string name="s1"> سنه جديده سعيده
+    </string>
+    <string name="s2">Tأتمنى لك سنة جديدة سعيد</string>
+    <string name="s3">بتحويل الكتابة العربي الى كتابة مفهومة من قبل اغلب</string>
+    <string name="s4">بتحويل الكتابة العربي الى كتابة مفهومةة مفهومة من قبل اغلب.</string>
+    <string name="s5">  سعيده سعيدهسعيده سعيديده سعيده سعيده</string>
+</resources>

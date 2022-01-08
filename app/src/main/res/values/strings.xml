@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project1_Localisation</string>
+    <string name="s1"> On the first day of the New Year, people entertain themselves a lot before midnight.
+    </string>
+    <string name="s2">The New Year is celebrated with great pomp in almost all countries.</string>
+    <string name="s3">On the New Year day, everyone wears new clothes and congratulates each other</string>
+    <string name="s4">Many types of programs are also held in schools on the occasion of the New Year.</string>
+    <string name="s5">At the time of New Year, there is splendor in the market and are decorated with colorful lights</string>
+</resources>

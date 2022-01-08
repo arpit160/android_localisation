@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">project1_Localisation</string>
+    <string name="s1"> Maître Corbeau, sur un arbre perché,</string>
+    <string name="s2">    Tenait en son bec un fromage.</string>
+    <string name="s3">Hé ! bonjour, Monsieur du Corbeau.</string>
+    <string name="s4"> Sans mentir, si votre ramage</string>
+    <string name="s5">Vous êtes le Phénix des hôtes de ces boishts</string>
+</resources>
+
